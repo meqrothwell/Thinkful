@@ -1,0 +1,61 @@
+Question 1,,,,
+Name,Age,Mean Age,Age - Mean,difference squared
+Greg,14,9.857142857,4.142857143,17.16326531
+Marcia,12,9.857142857,2.142857143,4.591836735
+Peter,11,9.857142857,1.142857143,1.306122449
+Jan,10,9.857142857,0.1428571429,0.02040816327
+Bobby,8,9.857142857,-1.857142857,3.448979592
+Cindy,6,9.857142857,-3.857142857,14.87755102
+Oliver,8,9.857142857,-1.857142857,3.448979592
+,,,,6.408163265
+Mean,9.857142857,,,
+Median,10,,,
+Mode,8,,,
+Variance,6.408163265,,,
+Standard Deviation,2.531435021,,,
+Standard Error,0.4219058368,,,
+,,,,
+,,,,
+Question 2,,,,
+I would choose the median as the best estimate of central tendency. The mode is significantly below the median and the mean is higher because of the more tightly-packed ages at the top. The median is equidistant from the minimum and maximum of the data set.,,,,
+,,,,
+,,,,
+Question 3,,,,
+Name,Age,Mean Age,Age - Mean,difference squared
+Greg,14,10,4,16
+Marcia,12,10,2,4
+Peter,11,10,1,1
+Jan,10,10,0,0
+Bobby,8,10,-2,4
+Cindy,7,10,-3,9
+Oliver,8,10,-2,4
+,,,,5.428571429
+Mean,10,,,
+Median,10,,,
+Mode,8,,,
+Variance,5.428571429,,,
+Standard Deviation,2.32992949,,,
+Standard Error,0.3883215817,,,
+"Everything changed slightly except for the median and mode. The mode is still 8 and the median is still 10. The mean age was increased, but the spread of the data, and thus the variance, standard deviation, and standard error, all decreased slightly. ",,,,
+,,,,
+,,,,
+Question 4,,,,
+Name,Age,Mean Age,Age - Mean,difference squared
+Greg,14,9,5,25
+Marcia,12,9,3,9
+Peter,11,9,2,4
+Jan,10,9,1,1
+Bobby,8,9,-1,1
+Cindy,7,9,-2,4
+Jessica,1,9,-8,64
+,,,,15.42857143
+Mean,9,,,
+Median,10,,,
+Mode,none,,,
+Variance,15.42857143,,,
+Standard Deviation,3.927922024,,,
+Standard Error,0.6546536707,,,
+"With the replacement of 8-year-old Oliver with 1-year-old Jessica, all measures of central tendency and variance estimation has changed with the exception fo the median. The variance changed drastically. Jessica should be considered an outlier with a larger impact on the mean than the other children, so I would stay with the median as my preferred measure of central tendency.",,,,
+,,,,
+Question 5,,,,
+"Based on surveys conducted by four entertainment magazines, I would not want to make a statement about the percentage of adult Americans in regards to tv preferences. The magazines probably did not interview adults who had no interest in any sort of television or entertainment, leaving out a clear and obvious large portion of the population. I disagree with the stated solution here, as the prompt specifies that the magazines asked ""their readers"", which would likely not be a representative sample of the entire US population. ",,,,
